@@ -4,5 +4,6 @@
 .dotfiles/
 .local/
 .pki/
+.ssh/
 .viminfo
 Documents/
