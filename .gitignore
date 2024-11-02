@@ -1,0 +1,8 @@
+.bash_history
+.bash_logout
+.cache/
+.dotfiles/
+.local/
+.pki/
+.viminfo
+.Documents/
